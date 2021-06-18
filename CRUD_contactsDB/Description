@@ -1,0 +1,11 @@
+## Contacts Database App using Python and SQLite
+### Build a contacts database application from scratch with Python and SQLite
+
+Steps to create:
+
+1. Database and table
+2. Application Graphical User Interface -GUI with Tkinter
+3. Class and methods
+4. Add and position Widgets
+5. Connect application GUI to SQLite Database
+6. Perform CRUD Operations from app GUI
